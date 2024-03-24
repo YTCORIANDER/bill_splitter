@@ -10,6 +10,13 @@ Bill Splitter is designed to simplify the process of splitting bills among frien
 - **Flexible Input**: Supports input in the form of arrays or custom iterable structures.
 - **Robust Iterator**: Implements a robust iterator for traversing and copying list elements.
 
+## Getting Started
+To start using the Bill Splitter:
+
+1. Clone this repository: `git clone https://github.com/YTCORIANDER/bill_splitter.git`
+2. Integrate the provided classes and methods into your Java applications for seamless bill splitting functionality.
+3. Explore the various features and configurations to adapt the Bill Splitter to your specific use cases.
+
 ## Usage
 To split bills using the Bill Splitter:
 
